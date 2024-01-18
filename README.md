@@ -21,6 +21,8 @@ This GitHub repository contains a comprehensive analysis of the Netflix film ind
 4. **Data Visualization:**-
    1. **Heatmap:**
       - Utilized heatmap visualization to showcase the correlation between various factors.
+        
+![Screenshot 2024-01-18 175502](https://github.com/bluniv/Netflix-Analysis/assets/152321937/74bcf56d-66ff-4c49-acbb-c3ad41c2214c)
 
    2. **Donut Chart:**
       - Employed donut chart to represent the distribution of viewership between movies and TV shows, offering a clear visual comparison.
