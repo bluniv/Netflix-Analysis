@@ -20,28 +20,28 @@ This GitHub repository contains a comprehensive analysis of the Netflix film ind
   
 4. **Data Visualization:**-
    1. **Heatmap:**
-   - Utilized heatmap visualization to showcase the correlation between various factors like viewership, genres, and release dates.
+      - Utilized heatmap visualization to showcase the correlation between various factors.
 
    2. **Donut Chart:**
-   - Employed donut charts to represent the distribution of viewership between movies and TV shows, offering a clear visual comparison.
+      - Employed donut chart to represent the distribution of viewership between movies and TV shows, offering a clear visual comparison.
  
    3. **Bar Chart:**
-   - Implemented bar charts to display genre preferences, providing an intuitive understanding of the popularity of different genres on Netflix.
+      - Implemented bar chart to display TV rating preferences.
 
-   4. **Funnel Chart:**
-   - Applied funnel charts to illustrate the step-by-step process of viewership, emphasizing the conversion rates at each stage.
+   4. **Bi-directional Bar Chart:**
+      - Utilized bi-directional bar chart to showcase the viewer engagement levels for both movies and TV shows across different TV ratings.
 
-   5. **Bi-directional Bar Chart:**
-   - Utilized bi-directional bar charts to showcase the viewer engagement levels for both movies and TV shows across different genres.
+   5. **Funnel Chart:**
+      - Applied funnel chart to illustrate the step-by-step process of viewership each month.
 
    6. **Treemap:**
-   - Implemented treemaps to represent hierarchical data structures, allowing for a visually rich exploration of genre relationships.
+      - Implemented treemap to represent hierarchical data structures, allowing for a visually rich exploration of genre relationships.
 
    7. **Waterfall Chart:**
-   - Integrated waterfall charts to demonstrate the cumulative impact of various factors on overall viewership.
+      - Integrated waterfall charts to demonstrate the number of movies added every year.
 
    8. **Line Chart:**
-   - Leveraged line charts to showcase trends in viewership over time, offering insights into the seasonal variations and audience engagement.
+      - Leveraged line charts to showcase trends in viewership over time, offering insights into audience engagement.
 
 
 ### Key Findings
