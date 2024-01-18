@@ -47,23 +47,10 @@ This GitHub repository contains a comprehensive analysis of the Netflix film ind
 ### Key Findings
 
 1. **Genre Preferences:**
-   - Uncovered the most preferred genres among Netflix viewers.
+   - Uncovered the most preferred genres among Netflix viewers 
 
 2. **Movie vs. TV Show Viewership:**
    - Compared and contrasted viewership trends for movies and TV shows.
 
 3. **Optimal Release Month:**
    - Determined the best month for releases based on historical data.
-
-### Usage Instructions
-
-1. **Data Preparation:**
-   - Follow the provided Jupyter notebook for data cleaning and preprocessing.
-
-2. **Analysis:**
-   - Review the EDA section to understand key insights.
-
-3. **Future Work:**
-   - Explore predictive modeling for more accurate release predictions.
-
-Feel free to contribute, provide feedback, or fork the repository for further analysis. Together, let's enhance our understanding of the Netflix film industry!
